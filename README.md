@@ -5,7 +5,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 To install dependencies:
 npm i
 
-To run:
+To run the development server (http://localhost:5173/):
 npm run dev
-
-http://localhost:5173/
